@@ -2,8 +2,8 @@
 title: PHOTORAMA
 email: ""
 description: "Photo Journal"
-url: "https://1057437122.github.io"
-baseurl: "/"
+url: "https://soybalaplata.github.io"
+baseurl: "/artben"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://1057437122.github.io/artben/gallery/"  
-  - JOURNAL: "https://1057437122.github.io/artben/journal/"
-  - ABOUT: "https://1057437122.github.io/artben/about/"
+  - GALLERY: "https://soybalaplata.github.io/artben/gallery/"  
+  - JOURNAL: "https://soybalaplata.github.io/artben/journal/"
+  - ABOUT: "https://soybalaplata.github.io/artben/about/"
 
 # All translation keys
 translations:
