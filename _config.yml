@@ -3,7 +3,7 @@ title: ARTBEN
 email: ""
 description: "Photo Journal"
 url: "https://soybalaplata.github.io"
-baseurl: "/artben"
+baseurl: "/"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://soybalaplata.github.io/artben/gallery/"  
-  - JOURNAL: "https://soybalaplata.github.io/artben/journal/"
-  - ABOUT: "https://soybalaplata.github.io/artben/about/"
+  - GALLERY: "https://www.galleryben.com/gallery/"  
+  - JOURNAL: "https://www.galleryben.com//journal/"
+  - ABOUT: "https://www.galleryben.com/about/"
 
 # All translation keys
 translations:
